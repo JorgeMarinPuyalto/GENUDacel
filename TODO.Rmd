@@ -1,0 +1,18 @@
+---
+title: "TODO"
+author: "Jorge Marín"
+date: "21 de julio de 2017"
+output: html_document
+---
+
+* __TODO__  
+Chequear código Mac OS  
+
+* __TODO__  
+Problemas obtención pdf desde knitr
+
+* __TODO__  
+Problemas bout (time issues)
+
+* __TODO__  
+Time issues: How should we _represent_ time, using R time or just a number that tells epoch, sample, ...
